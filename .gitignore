@@ -4,9 +4,7 @@
 *.tfstate.*
 .terraform.lock.hcl
 
-# Variables containing secrets
-*.auto.tfvars
-terraform.tfvars
+
 
 # VS Code
 .vscode/
